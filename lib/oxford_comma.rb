@@ -7,5 +7,6 @@ a_string = a.join(", ")
 
 a_string+=" and #{final_element}"
 
+puts a_string
 
 
