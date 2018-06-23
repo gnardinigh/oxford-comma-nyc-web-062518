@@ -1,5 +1,8 @@
 
-a = ["a","b","c","d"]
+
+
+def oxford_comma(a)
+
 
 final_element = a.pop
 
@@ -9,4 +12,4 @@ a_string+=" and #{final_element}"
 
 puts a_string
 
-
+end
