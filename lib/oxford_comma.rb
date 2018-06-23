@@ -1,5 +1,5 @@
 
 a = ["a","b","c","d"]
 
-puts a.join
+puts a.join(" ")
 
